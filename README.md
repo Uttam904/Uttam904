@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning, python and SQl
 - 💞️ I’m looking to collaborate on Data science
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me through linkedin https://www.linkedin.com/in/uttam-pandey-a62932b2/
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
 
 <!---
